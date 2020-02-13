@@ -1,0 +1,9 @@
+html,body {
+    font-size: 14px;
+    font-family: Microsoft JhengHei;
+}
+
+.main{
+    min-height: calc(100vh - (49px + 49px + 42px + 14px));
+    //最小高度不會低於: 100vh的裝置高-(Navbar高+Footer高)
+}
