@@ -1,6 +1,6 @@
 # 電商網站後台版型
 ### 概述：Bootstrap切版練習
-### 技術：HTML、CSS、Bootstrap
+### 技術：HTML、CSS、Bootstrap、RWD
 ### Demo：
 #### 1. 首頁：卡片式排版與 Grid System 排版、圖表資訊、表單排版
 ![readme01](https://github.com/IanSu0630/DashBoard/blob/master/readme_img/readme01.PNG)
